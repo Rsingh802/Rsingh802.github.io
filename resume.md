@@ -1,5 +1,5 @@
 # Ryan Singh
-<img src=imgs/me.jpg align=right>
+<img src="/imgs/me.jpg" align=right>
 Email: <a href="mailto:rsingh82@uw.edu">rsingh82@uw.edu</a>
 
 <a href="http://www.linkedin.com/in/ryan-a-singh">LinkedIn Profile</a>
